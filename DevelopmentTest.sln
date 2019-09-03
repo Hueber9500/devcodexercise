@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{A9F27B12-6483-461E-BD5E-BF227AD2E66C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{906A7439-1E4A-4290-8254-5F69BC1AD867}"
+	ProjectSection(SolutionItems) = preProject
+		Data\employees.json = Data\employees.json
+		Data\employees.txt = Data\employees.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRelayer", "WebRelayer\WebRelayer.csproj", "{510AD78D-571F-4CEC-B577-46A256DA74AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510AD78D-571F-4CEC-B577-46A256DA74AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510AD78D-571F-4CEC-B577-46A256DA74AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510AD78D-571F-4CEC-B577-46A256DA74AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510AD78D-571F-4CEC-B577-46A256DA74AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9136232-43FB-44EC-A77B-EFBBDF8E6AC9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.csproj.CoreCompileInputs.cache
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.RazorAssemblyInfo.cache
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.RazorAssemblyInfo.cs
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.AssemblyInfoInputs.cache
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.AssemblyInfo.cs
+C:\Programming\DeveloperCodingExercise\WebRelayer\bin\Debug\netcoreapp2.1\WebRelayer.deps.json
+C:\Programming\DeveloperCodingExercise\WebRelayer\bin\Debug\netcoreapp2.1\WebRelayer.runtimeconfig.json
+C:\Programming\DeveloperCodingExercise\WebRelayer\bin\Debug\netcoreapp2.1\WebRelayer.runtimeconfig.dev.json
+C:\Programming\DeveloperCodingExercise\WebRelayer\bin\Debug\netcoreapp2.1\WebRelayer.dll
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.RazorTargetAssemblyInfo.cache
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.csprojAssemblyReference.cache
+C:\Programming\DeveloperCodingExercise\WebRelayer\bin\Debug\netcoreapp2.1\WebRelayer.pdb
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.dll
+C:\Programming\DeveloperCodingExercise\WebRelayer\obj\Debug\netcoreapp2.1\WebRelayer.pdb
